@@ -1,0 +1,7 @@
+data/fixtures/bak/
+__pycache__
+.bzr
+.bzrignore
+_make_
+data/fixtures/*.xml
+

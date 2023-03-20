@@ -1,0 +1,11 @@
+__pycache__
+fixtures
+data/fixtures/
+names/XML/*
+get_fixtures.sh
+clean_names.py
+.bzr
+.bzrignore
+update_from_django3.sh
+README
+

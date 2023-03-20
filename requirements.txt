@@ -1,0 +1,4 @@
+Django>=3.0,<=4.1
+django_random_id_model
+lxml
+
